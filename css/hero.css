@@ -5,6 +5,8 @@ html, body{
 
 header{
 	background-color: #0000FF;
+	background-image: url('https://i1.wp.com/www.spirallingsphere.com/wp-content/uploads/2016/10/Logo_Bleach.svg_.png?resize=1024%2C256');
+	background-repeat: repeat;
 	padding: 40px;
 	text-align: center;
 
